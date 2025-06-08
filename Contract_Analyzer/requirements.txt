@@ -1,0 +1,6 @@
+streamlit
+transformers
+sentence-transformers
+torch==2.7.1
+scipy
+numpy

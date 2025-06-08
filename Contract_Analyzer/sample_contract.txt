@@ -1,0 +1,35 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is made on April 1, 2025, by and between:
+
+Company Name: TechNova Solutions Pvt. Ltd.  
+Address: 221B, Industrial Area, Bengaluru, India
+
+AND
+
+Client Name: Kavya Sharma  
+Address: 14, Sunrise Apartments, Mumbai, India
+
+1. Services Provided  
+TechNova Solutions agrees to provide software development and maintenance services for the Client's e-commerce platform.
+
+2. Term  
+The agreement will commence on April 5, 2025, and will continue for a period of 12 months unless terminated earlier.
+
+3. Payment  
+The Client agrees to pay ₹1,50,000 per month, to be invoiced at the start of each month and payable within 10 business days.
+
+4. Confidentiality  
+Both parties agree to keep confidential any proprietary or sensitive information exchanged during the term of this Agreement.
+
+5. Termination  
+Either party may terminate this Agreement by giving 30 days’ written notice.
+
+6. Dispute Resolution  
+Any disputes arising under this Agreement shall be resolved through arbitration in accordance with Indian Arbitration laws.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Signed:  
+TechNova Solutions Pvt. Ltd. – Mr. Arvind Mehta  
+Client – Ms. Kavya Sharma
